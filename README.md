@@ -22,7 +22,7 @@ measures should be taken.
 
 ## Featured Projects
 - [Homelab Setup](https://github.com/tj-klick/homelab-setup) – My Proxmox-based lab for virtualization, monitoring, and learning networking + everything else
-- [Fusion 360 Models](https://github.com/tj-klick/fusion360-models) – Custom 3D printable parts made by Me
+- [3D Printing](https://github.com/tj-klick/3D-Printing) – Custom 3D printable parts & models made by Me
 - [PowerShell Scripts](https://github.com/tj-klick/powershell-scripts) – Scripts at work & home
 
 
