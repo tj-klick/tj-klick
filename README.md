@@ -23,6 +23,7 @@ measures should be taken.
 ## Featured Projects
 - [Homelab Setup](https://github.com/tj-klick/homelab-setup) – My Proxmox-based lab for virtualization, monitoring, and learning networking + everything else
 - [3D Printing](https://github.com/tj-klick/3D-Printing) – Custom 3D printable parts & models made by Me
+- [Photography](https://githubcom/tj-klick/Photography) - Product Shots, PC Builds and any other photos
 - [PowerShell Scripts](https://github.com/tj-klick/powershell-scripts) – Scripts at work & home
 
 
